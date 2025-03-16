@@ -5,7 +5,7 @@ const db = new QuickDB();
 const { prefix } = require('../../index')
 const config = require('./../../config.json');
 const serverId = config.serverId;
-const authorizedUserID = ['1150820434690977882', '1150820434690977882'];
+const authorizedUserID = ['ALTERAR PARA ID DO DEV', 'ALTERAR PARA ID DO DEV'];
 
 module.exports = {
     name: 'dm',

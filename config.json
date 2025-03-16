@@ -1,15 +1,15 @@
 {
   "prefix": [
-    "a!"
+    "a!" 
   ],
-  "token": "",
-  "clientID": "1293389330307485717",
-  "serverId": "1332638639972159558",
-  "mpAccessToken": "",
+  "token": "TOKEN DO BOT",
+  "clientID": "ID DO BOT",
+  "serverId": "ID DO SERVER",
+  "mpAccessToken": "MP TOKEN ACESS",
   "perm": [
-    "1332661731108978768"
+    "CARGO PERM"
   ],
   "bot_devs" : [
-    "1150820434690977882"
+    "DEV "
   ]
 }

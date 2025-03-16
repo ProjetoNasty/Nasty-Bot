@@ -47,7 +47,7 @@ client.on("interactionCreate", async interaction => {
     if (!colorNB) colorNB = '#2f3136';
 
     let perm2 = await db.get(`perm_${interaction.guild.id}.cargos`);
-    const allowedUserIds = ["1150820434690977882", "1150820434690977882"];
+    const allowedUserIds = ["ALTERAR PARA ID DO DEV", "ALTERAR PARA ID DO DEV"];
 
     let USERBLACKLIST = new Discord.EmbedBuilder()
         .setDescription(`${interaction.member}, o membro já está na blacklist!`)

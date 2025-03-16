@@ -20,7 +20,7 @@ module.exports = {
 
         let perm2 = await db.get(`perm_${message.guild.id}.cargos`);
 
-        const allowedUserIds = ["1150820434690977882", "1150820434690977882"];
+        const allowedUserIds = ["ALTERAR PARA ID DO DEV", "ALTERAR PARA ID DO DEV"];
 
         if (
             !allowedUserIds.includes(message.author.id) &&

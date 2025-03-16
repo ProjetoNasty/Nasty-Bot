@@ -38,7 +38,7 @@
                 "tweet": "morre aff",
                 "likes": [],
                 "rts": [
-                    "1150820434690977882"
+                    "ALTERAR PARA ID DO DEV"
                 ],
                 "comment": []
             },
@@ -55,11 +55,11 @@
             }
         ]
     },
-    "1150820434690977882": {
+    "ALTERAR PARA ID DO DEV": {
         "tt": [
             {
                 "Id": 1,
-                "userId": "1150820434690977882",
+                "userId": "ALTERAR PARA ID DO DEV",
                 "data": "1/25/2025",
                 "tweet": "cansei de esconder o X da o cuzinho para mim no off",
                 "likes": [
@@ -70,7 +70,7 @@
             },
             {
                 "Id": 2,
-                "userId": "1150820434690977882",
+                "userId": "ALTERAR PARA ID DO DEV",
                 "data": "1/25/2025",
                 "tweet": "ta com vergonha ?",
                 "likes": [],
@@ -79,7 +79,7 @@
             },
             {
                 "Id": 3,
-                "userId": "1150820434690977882",
+                "userId": "ALTERAR PARA ID DO DEV",
                 "data": "15/02/2025",
                 "tweet": "fds",
                 "likes": [],
