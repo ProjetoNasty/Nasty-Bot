@@ -1,0 +1,62 @@
+module.exports = {
+    emojis: {
+        security: '<:security:1327398611369332807>',
+        bans: '<:Banimento:1327398573431717989>',
+        addcargo: '<:AdicionarCargos:1327398613571342356>',
+        canais: '<:influencer:1327398587125989478>',
+        membros: '<:comunidade:1327398592058495016>',
+        botsadd: '<:PrefixoBots:1327398583074295828>',
+        entrada: '<:AdicionarCargos:1327398613571342356>',
+        mensagens: '<:seta:1327398594134675500>',
+        trafego: '<:Suporte:1327398583816687677>',
+        protecao: '<:security:1327398611369332807>',
+        servidores: '<:menu:1327398586333266144>',
+        vip: '<:vips:1327398614091436155>',
+        vips: '<:vips:1327398614091436155>',
+        duracao: '<:compressor:1327398596580081744>',
+        anel: '<:anel:1327398575339999384>',
+        reset: '<:delet:1327398590309597214>',
+        membro: '<:sejamembro:1327398609007939664>',
+        motivo: '<:Registro:1327398578183864322>',
+        categoria: '<:migerec:1327398595392962621>',
+        pig: '<:pigbadge:1327398572311842888>', //fazer
+        dev: '<:BotDev:1327398579450548245>', //fazer
+        hse: '<:HypeSquad:1327398576208478371>', //fazer
+        activedev: '<:activedev:1327398584907333632>', //fazer
+        members: '<:comunidade:1327398592058495016>',
+        etretenimento: '<:reacao:1327398606113869935>',
+        verificado: '<:verificacao:1327398605228867634>',
+        whitelist: '<:Registro:1327398578183864322>',
+        bot: '<:PrefixoBots:1327398583074295828>',
+        clock: '<:compressor:1327398596580081744>',
+        ativado: '<a:habilitado:1327398567257706567>',
+        settings: '<:moderao:1327398604272566322>',
+        atualizados: '<:migerec:1327398595392962621>',
+        discordshop: '<:Badges:1327398574077644821>',
+        dcheart: '<a:coraao:1327398599159709918>',
+        moderador: '<:sejamembro:1327398609007939664>',
+        roleskk: '<:AdicionarCargos:1327398613571342356>',
+        id: '<:info:1327398603207217187>',
+        purple: '<:ponto:1327398615349727363>',
+        purpleowner: '<:discotools:1327398568297889823>',
+        sync: '<:migerec:1327398595392962621>',
+        sv: '<:Convites:1327398580914491517>',
+        addcargos: '<:AdicionarCargos:1327398613571342356>',
+        memberemov: '<:migerec:1327398595392962621>',
+        destaq: '<:ranking:1327398585465176075>',
+        curtidasig: '<:Twitter_like:1327398576782966859>',
+        comentarios: '<:Twitter_comentario:1327456342218375219>',
+        msgedit: '<:seta:1327398594134675500>',
+        novamsg: '<:seta:1327398594134675500>',
+        curtidatt: '<a:coraao:1327398599159709918>',
+        rtt: '<:Twitter_retweet:1327456703297622017>',
+        comentt: '<:Twitter_comentario:1327456342218375219>',
+        morett: '<:ponto:1327398615349727363>',
+        desativado: '<a:desabilitado:1327398590712119428>',
+        botao_global: '<:seta:1327398594134675500>',
+        aceitar_wl: '<:VERIFICADO:1327398581820456981>',
+        negar_wl: '<:b_brancocheckno:1332705927811432499>'
+        
+    }
+
+}
