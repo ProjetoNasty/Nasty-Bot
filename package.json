@@ -1,7 +1,7 @@
 {
   "name": "Nasty-Bot",
   "version": "1.0.0",
-  "description": "Coca",
+  "description": "Deixa os creditos caso for repassar... @coca_011",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
